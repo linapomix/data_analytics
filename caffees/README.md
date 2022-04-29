@@ -22,5 +22,5 @@
 ### Используемые в проекте инструменты
 *Python*, *Pandas*, *Seaborn*, *Plotly*, *Plotly.express*, *SciPy*, *Pymystem3*, *Counter*, *BytesIO*, *Requests*, *Matplotlib*, визуализация данных
 
-(https://disk.yandex.ru/d/9nX-jqPoYLnpjw "Перейти к презентации")
+[Презентация](https://disk.yandex.ru/d/9nX-jqPoYLnpjw "Перейти к презентации")
 
