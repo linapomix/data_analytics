@@ -21,3 +21,4 @@
 ### Используемые в проекте инструменты
  *Python, Pandas, Matplotlib, Seaborn, Datetime, Plotly, Plotly.express, Plotly.go, Math, SciPy,* событийная аналитика, продуктовые метрики, A/B-тестирование, проверка статистических гипотез, визуализация данных
 
+[Графики полностью отображаются здесь](https://nbviewer.org/github/linapomix/data_analytics/blob/main/aab_mobile_app/aab_mobile_app.ipynb "Перейти к презентации")
