@@ -24,3 +24,5 @@
 
 [Презентация](https://disk.yandex.ru/d/9nX-jqPoYLnpjw "Перейти к презентации")
 
+[Графики полностью отображаются здесь](https://nbviewer.org/github/linapomix/data_analytics/blob/main/caffees/caffees.ipynb "Перейти к презентации")
+
