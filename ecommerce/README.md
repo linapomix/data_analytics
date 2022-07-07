@@ -20,5 +20,4 @@
 ### Используемые в проекте инструменты
 Python, Pandas, Pymystem3, предобработка данных, Scipy, Plotly, Datetime, Counter, Numpy, Matplotlib. 
 
-
-
+[Графики полностью отображаются здесь](https://nbviewer.ipython.org/github/linapomix/data_analytics/blob/main/ecommerce/ecommerce.ipynb "Перейти к Jupyter nbviewer")
